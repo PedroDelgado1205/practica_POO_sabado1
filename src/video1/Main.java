@@ -1,4 +1,6 @@
-import entidades.*;
+package video1;
+
+import video1.entidades.*;
 public class Main {
     public static void main(String[] args) {
         // clase abstracta

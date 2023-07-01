@@ -1,4 +1,4 @@
-package entidades;
+package video1.entidades;
 
 public interface Animal {
     String nombre="Michi";

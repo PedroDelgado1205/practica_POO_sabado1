@@ -1,4 +1,4 @@
-package entidades;
+package video1.entidades;
 
 public abstract class Persona {
     public String nombre;

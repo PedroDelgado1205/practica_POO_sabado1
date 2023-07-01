@@ -1,4 +1,6 @@
-import entidades.Persona;
+package video1;
+
+import video1.entidades.Persona;
 
 public class Desarrollador extends Persona {
     public Desarrollador() {

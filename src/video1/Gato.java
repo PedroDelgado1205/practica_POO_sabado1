@@ -1,10 +1,12 @@
-import entidades.Animal;
+package video1;
+
+import video1.entidades.Animal;
 
 public class Gato implements Animal {
 
     @Override
     public void miNombre() {
-        System.out.println("mi nombre es "+Animal.nombre);
+        System.out.println("mi nombre es "+ nombre);
 
     }
 
