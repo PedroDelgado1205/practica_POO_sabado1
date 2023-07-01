@@ -7,6 +7,6 @@ public class Desarrollador extends Persona {
 
     @Override
     public void miNombre(int edad) {
-
+        System.out.println("Mi nombre es "+this.nombre+" mi edad es "+edad);
     }
 }
